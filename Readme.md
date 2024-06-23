@@ -1,3 +1,7 @@
-# Este es un título 1
+# Proyecto: Data Science Fundamentals
 
-Hola este es mi primer proyecto
+Incluye los siguientes tópicos:
+
+* Fundamentos
+* Código Git
+* Código Python y R
