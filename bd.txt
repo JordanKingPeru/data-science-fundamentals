@@ -15,9 +15,3 @@ data = [
 ]
 
 filename = '/H:/Mi unidad/06Docencia/01Dictado de cursos/05FundamentosDataScience/2024/04Presentación/Sesión02/01Mi primer proyecto/bd.csv'
-
-with open(filename, 'w', newline='') as file:
-  writer = csv.writer(file)
-  writer.writerows(data)
-
-print(f"CSV file '{filename}' created successfully.")
