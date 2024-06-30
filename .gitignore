@@ -9,3 +9,9 @@ llaves.json
 
 # .env files
 .env
+
+# no enviar a github los archivo .env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
