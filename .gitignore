@@ -6,3 +6,6 @@ contrasena.json
 
 # json con las llaves de acceso a la API de Twitter
 llaves.json
+
+# .env files
+.env
