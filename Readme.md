@@ -21,6 +21,9 @@ numpy==2.0.0
 pandas==2.2.2
 matplotlib==3.9.0
 scikit-learn==1.5.0
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+pymongo==4.8.0
 ```
 
 ## Navegación de carpeta
